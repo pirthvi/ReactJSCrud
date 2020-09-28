@@ -1,4 +1,4 @@
-For spring boot rest services please gi https://github.com/pirthvi/reactjsSpringBoot.git
+For spring boot rest services please git https://github.com/pirthvi/reactjsSpringBoot.git
 
 
 
